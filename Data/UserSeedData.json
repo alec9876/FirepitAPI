@@ -1,0 +1,74 @@
+﻿[
+  {
+    "UserName": "alec@example.com",
+    "DateOfBirth": "1987-10-09",
+    "FirstName": "Alec",
+    "LastName": "Schram",
+    "KnownAs": "Alec",
+    "Created": "2021-01-10",
+    "LastActive": "2020-12-20",
+    "City": "Lexington",
+    "State": "KY",
+    "Bio": "I like turtles",
+    "Photos": [
+      {
+        "ImageUrl": "C:\\Users\\Alec Schram\\OneDrive\\Pictures\\Saved Pictures\\Kermit.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "dave@example.com",
+    "DateOfBirth": "1988-03-19",
+    "FirstName": "David",
+    "LastName": "Thomas",
+    "KnownAs": "Dave",
+    "Created": "2021-01-10",
+    "LastActive": "2020-12-20",
+    "City": "Tyrone",
+    "State": "GA",
+    "Bio": "Musical theater, honey!",
+    "Photos": [
+      {
+        "ImageUrl": "C:\\Users\\Alec Schram\\OneDrive\\Pictures\\Saved Pictures\\Pepe.jpeg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "david@example.com",
+    "DateOfBirth": "1987-12-12",
+    "FirstName": "David",
+    "LastName": "King",
+    "KnownAs": "David",
+    "Created": "2021-01-10",
+    "LastActive": "2020-12-20",
+    "City": "Minneapolis",
+    "State": "MN",
+    "Bio": "I vote and I am pro opera.",
+    "Photos": [
+      {
+        "ImageUrl": "C:\\Users\\Alec Schram\\OneDrive\\Pictures\\Saved Pictures\\blackwidow.jpg",
+        "IsMain": true
+      }
+    ]
+  },
+  {
+    "UserName": "brian@example.com",
+    "DateOfBirth": "1981-10-27",
+    "FirstName": "Brian",
+    "LastName": "Davidson",
+    "KnownAs": "Brian",
+    "Created": "2021-01-10",
+    "LastActive": "2020-12-20",
+    "City": "Gastonia",
+    "State": "NC",
+    "Bio": "Avett Bros, Hamilton, and other music everyone's sick of.",
+    "Photos": [
+      {
+        "ImageUrl": "C:\\Users\\Alec Schram\\OneDrive\\Pictures\\Saved Pictures\\Gonzo.jpg",
+        "IsMain": true
+      }
+    ]
+  }
+]
